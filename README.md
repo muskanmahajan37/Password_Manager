@@ -1,0 +1,1 @@
+Manage passwords using inbuild sqlite database using single master password
